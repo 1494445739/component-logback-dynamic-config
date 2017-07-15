@@ -1,0 +1,1 @@
+"# component-logback-dynamic-config" 
